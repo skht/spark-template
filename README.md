@@ -1,5 +1,5 @@
 # spark-template
-Spark projects template
+Spark project templates:
 
 java-only  - Maven based Spark project for Java language development only
 
